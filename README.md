@@ -1,4 +1,4 @@
-# Binance Public Data
+#  Binance Public Data
 
 The website [Binance Data Collection](https://data.binance.vision/) offers easy access for anyone to download Binance's public market data, which is aggregated into `daily` or `monthly` files.
 
